@@ -1,0 +1,2 @@
+# Clinic-Management-System-Web-Application-Development
+Students must develop a Clinic Management Web System using HTML, JavaScript, JSP, and MySQL, applying client-server programming and database concepts. The system will support three user roles: Clerk, Doctor, and Pharmacy, enabling clinic operations through a web-based platform for managing patient records, consultations, and medication services.
